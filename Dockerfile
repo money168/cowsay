@@ -1,4 +1,4 @@
-# Base image cowsay:0.6
+# Base image cowsay:0.7
 FROM alpine:3.6
 
 MAINTAINER cash168
