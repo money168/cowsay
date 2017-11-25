@@ -1,5 +1,5 @@
-# Base image cowsay:0.5
-FROM alpine:3.5
+# Base image cowsay:0.6
+FROM alpine:3.6
 
 MAINTAINER cash168
 RUN apk add --no-cache perl
